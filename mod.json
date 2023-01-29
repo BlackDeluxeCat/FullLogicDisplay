@@ -1,0 +1,9 @@
+{
+	"name": "FullLogicDisplay",
+	"displayName": "Full Logic Display",
+	"author": "BlackDeluxeCat",
+	"description": "全屏显示屏",
+	"version": "1.0",
+	"hidden": true,
+	"minGameVersion": 141
+}
